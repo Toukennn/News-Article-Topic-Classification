@@ -128,3 +128,17 @@ Final configuration:
 ```bash
 git clone https://github.com/Toukennn/News-Article-Topic-Classification.git
 cd News-Article-Topic-Classification
+```
+### 2. Install dependencies
+pip install -r requirements.txt
+### 3. Run the notebook
+Open:
+winter_project.ipynb
+### 4. Generate predictions
+
+Output format:
+
+Id,Predicted
+0,2
+1,5
+...
