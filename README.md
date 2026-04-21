@@ -147,12 +147,12 @@ Id,Predicted
 
 ---
 🛠️ Tech Stack
-Python (Jupyter Notebook) 
-Scikit-learn
-Pandas
-NumPy
-Matplotlib 
-Seaborn 
+- Python (Jupyter Notebook) 
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib 
+- Seaborn 
 ---
 📁 Repository Structure
 ├── news_classification.ipynb
@@ -161,10 +161,10 @@ Seaborn
 └── requirements.txt 
 ---
 🔮 Future Improvements
-Use transformer-based models (BERT, RoBERTa) 
-Improve handling of class imbalance
-More advanced feature engineering
-Hybrid or ensemble approaches
+- Use transformer-based models (BERT, RoBERTa) 
+- Improve handling of class imbalance
+- More advanced feature engineering
+- Hybrid or ensemble approaches
 --- 
 👨‍💻 Authors
 - Amir Reza Khatibi
