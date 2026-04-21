@@ -156,6 +156,9 @@ Id,Predicted
 ---
 ## 📁 Repository Structure
 ```text
+├── LISENCE
+├── .gitignore
+├── main.py
 ├── news_classification.ipynb
 ├── report_project.pdf
 ├── README.md
