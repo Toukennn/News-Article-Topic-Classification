@@ -130,7 +130,9 @@ git clone https://github.com/Toukennn/News-Article-Topic-Classification.git
 cd News-Article-Topic-Classification
 ```
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 ### 3. Run the notebook
 Open:
 winter_project.ipynb
