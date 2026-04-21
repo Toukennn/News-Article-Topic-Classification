@@ -146,7 +146,7 @@ Id,Predicted
 ...
 
 ---
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python (Jupyter Notebook) 
 - Scikit-learn
 - Pandas
@@ -154,23 +154,25 @@ Id,Predicted
 - Matplotlib 
 - Seaborn 
 ---
-📁 Repository Structure
+## 📁 Repository Structure
+```text
 ├── news_classification.ipynb
 ├── report_project.pdf
 ├── README.md
-└── requirements.txt 
+└── requirements.txt
+```
 ---
-🔮 Future Improvements
+## 🔮 Future Improvements
 - Use transformer-based models (BERT, RoBERTa) 
 - Improve handling of class imbalance
 - More advanced feature engineering
 - Hybrid or ensemble approaches
 --- 
-👨‍💻 Authors
+## 👨‍💻 Authors
 - Amir Reza Khatibi
 - Mehdi Bigdeli
 Politecnico di Torino
 --- 
-⭐ Final Note 
+## ⭐ Final Note 
 This project shows that:
 Well-engineered classical machine learning pipelines can still achieve strong performance in NLP tasks.
