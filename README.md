@@ -174,7 +174,6 @@ Id,Predicted
 ## 👨‍💻 Authors
 - Amir Reza Khatibi
 - Mehdi Bigdeli
-Politecnico di Torino
 --- 
 ## ⭐ Final Note 
 This project shows that:
